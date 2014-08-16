@@ -1,9 +1,9 @@
-# script-cellarise-bamboo
-[![view on npm](http://img.shields.io/npm/v/script-cellarise-bamboo.svg)](https://www.npmjs.org/package/script-cellarise-bamboo)
-[![npm module downloads per month](http://img.shields.io/npm/dm/script-cellarise-bamboo.svg)](https://www.npmjs.org/package/script-cellarise-bamboo)
-[![Dependency Status](https://david-dm.org/Cellarise/script-cellarise-bamboo.svg)](https://david-dm.org/Cellarise/script-cellarise-bamboo)
+# {name}
+[![view on npm](http://img.shields.io/npm/v/{name}.svg)](https://www.npmjs.org/package/{name})
+[![npm module downloads per month](http://img.shields.io/npm/dm/{name}.svg)](https://www.npmjs.org/package/{name})
+[![Dependency Status](https://david-dm.org/Cellarise/{name}.svg)](https://david-dm.org/Cellarise/{name})
 
-> A collection of command line scripts for executing common build commands on Atlassian Bamboo
+> {description}
 
 
 ##Installation 
@@ -72,4 +72,4 @@ cls
 
 MIT License (MIT)
 
-Copyright (c) 2014 John Barry
+Copyright (c) 2014 {author}
