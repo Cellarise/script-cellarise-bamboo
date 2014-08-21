@@ -33,16 +33,21 @@ build-bamboo build
 
 #Scripts
 
+##npm-rebuild
+
+Rebuild npm packages using the following npm commands.
+
+```bat
+call npm prune
+call npm update --msvs_version=2013
+call npm dedupe --msvs_version=2013
+```
+
 ##pre-build
 
 Pre build tasks.
 
 ```bat
-REM install development packages
-call npm prune
-call npm update --msvs_version=2013
-call npm dedupe --msvs_version=2013
-
 REM delete Build
 rmdir .\Build /s /q
 

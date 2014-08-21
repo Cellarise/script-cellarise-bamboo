@@ -2,14 +2,14 @@
   "author": "John Barry",
   "name": "script-cellarise-bamboo",
   "description": "A collection of command line scripts for executing common build commands on Atlassian Bamboo",
-  "version": "0.1.1",
+  "version": "0.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/Cellarise/script-cellarise-bamboo.git"
   },
   "config": {
-    "build": "5",
-    "buildTimestamp": "2014-08-16T16:20:34.938+10:00",
+    "build": "n/a",
+    "buildTimestamp": "2014-08-21T04:49:46.649Z",
     "adminEmail": "admin@cellarise.com"
   },
   "bin": {

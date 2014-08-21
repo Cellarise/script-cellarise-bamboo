@@ -6,7 +6,7 @@ var rename = require("gulp-rename");
 
 module.exports = function(gulp) {
 
-    gulp.task('build', ['docs'], function() {
+    gulp.task('default', ['docs'], function() {
     });
 
     gulp.task("docs", function(cb){
